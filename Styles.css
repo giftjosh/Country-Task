@@ -1,0 +1,52 @@
+h1 {
+  font-family: Arial;
+  font-size: 24pt;
+  color: white;
+}
+h2 {
+  font-family: Helvetica;
+  font-size: 16pt;
+  color: black;
+}
+body {
+  background-color: darkturquoise;
+}
+p {
+  font-family: Helvetica;
+  font-size: 12px;
+  color: black;
+}
+ul {
+  font-family: Helvetica;
+  font-size: 16px;
+  color: darkblue;
+}
+ol {
+  font-family: Helvetica;
+  font-size: 20px;
+  color: black;
+}
+.Travel {
+  float: right;
+  color: darkslateblue;
+  font-size: 14px;
+  font-weight: bold;
+}
+.nav {
+  display: inline;
+  background-color: azure;
+  padding: 10px;
+}
+.RightImage {
+  float: right;
+}
+#GreekHeading {
+  background-color: darkslateblue;
+}
+#PolandHeading {
+  background-color: #ca1c47;
+}
+#PakistanHeading {
+  background-color: darkgreen;
+}
+
